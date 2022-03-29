@@ -9,3 +9,6 @@ $ sudo docker run --net=host --runtime nvidia --rm --ipc=host -v /tmp/.X11-unix/
 $ gst-launch-1.0 nvarguscamerasrc sensor_id=0 ! nvoverlaysink
 
 
+#Mediapipe
+
+https://github.com/PINTO0309/mediapipe-bin
