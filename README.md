@@ -11,4 +11,6 @@ $ gst-launch-1.0 nvarguscamerasrc sensor_id=0 ! nvoverlaysink
 
 #Mediapipe
 
+$ python3 -m pip install mediapipe-python-aarch64/mediapipe-0.8.4-cp38-cp38-linux_aarch64.whl
+
 https://github.com/PINTO0309/mediapipe-bin
